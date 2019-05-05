@@ -8,7 +8,7 @@ class OficinaController {
                state:"AL",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"av. jorge montenegro barro 3020 - Alagoas",
                phone:"(82) 3314-2436",
                status:"ativo"
@@ -19,7 +19,7 @@ class OficinaController {
                state:"AL",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA DIEGUES JUNIOR 286 - alagoas",
                phone:"(82) 3321 4080",
                status:"ativo"
@@ -30,7 +30,7 @@ class OficinaController {
                state:"AM",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Av Torquato Tapajós - 7070 Manaus - AM",
                phone:"92 994843720",
                status:"ativo"
@@ -41,7 +41,7 @@ class OficinaController {
                state:"BA",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"General Graça Lessa n06 Salvador",
                phone:"(71) 3389 3333",
                status:"ativo"
@@ -52,7 +52,7 @@ class OficinaController {
                state:"BA",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Rua Manari 194 - salvador ",
                phone:"(71) 3382-5111",
                status:"ativo"
@@ -63,7 +63,7 @@ class OficinaController {
                state:"BA",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Trav. Prof. Pint de Aguiar 14 - salvador",
                phone:"(71) 3371-4106",
                status:"ativo"
@@ -74,7 +74,7 @@ class OficinaController {
                state:"BA",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Avenida São Cristovão 45 - salvador",
                phone:"(71) 3377-6666",
                status:"ativo"
@@ -85,7 +85,7 @@ class OficinaController {
                state:"CE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA VITÓRIA 577A - FORTALEZA",
                phone:"(85)3290-0998",
                status:"ativo"
@@ -96,7 +96,7 @@ class OficinaController {
                state:"CE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Rua Joaquim Nabuco  3445 - fortaleza",
                phone:"(85)3472-1949",
                status:"ativo"
@@ -107,7 +107,7 @@ class OficinaController {
                state:"CE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Avenida Visconde Rio Branco 3248 - fortaleza",
                phone:"(85) 3254 2103",
                status:"ativo"
@@ -118,7 +118,7 @@ class OficinaController {
                state:"MG",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AVENIDA DOM PEDRO I - 3880C  - BELO HORIZONTE MG",
                phone:"(31) 3459-8086",
                status:"ativo"
@@ -129,7 +129,7 @@ class OficinaController {
                state:"PB",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ANÁSIO DE AZEVEDO LIMA - 292 JOÃO PESSOA",
                phone:"3239-9472",
                status:"ativo"
@@ -140,7 +140,7 @@ class OficinaController {
                state:"PE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Av.Marechal Mascarenha de Moraes 1310 - RECIFE",
                phone:"(81)3428 3928",
                status:"ativo"
@@ -151,7 +151,7 @@ class OficinaController {
                state:"PE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Avenida  Norte 7205 - Recife",
                phone:"(81)3267-8198",
                status:"ativo"
@@ -162,7 +162,7 @@ class OficinaController {
                state:"PE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"GOV AGAMENON MAGALHÃES 409 - recife",
                phone:"(81) 3244-0034",
                status:"ativo"
@@ -173,7 +173,7 @@ class OficinaController {
                state:"PE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV: Norte - recife",
                phone:"(81) 3441-3946",
                status:"ativo"
@@ -184,7 +184,7 @@ class OficinaController {
                state:"PR",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA ALFERES POLI 1658, REBOUÇAS, Curitiba PR",
                phone:"41 3392-7000",
                status:"ativo"
@@ -195,7 +195,7 @@ class OficinaController {
                state:"PR",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV. DAS TORRES 2387,  SÃO CRISTOVÃO, SÃO JOSE DOS PINHAIS PR",
                phone:"41 3081-2622",
                status:"ativo"
@@ -206,7 +206,7 @@ class OficinaController {
                state:"PR",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"DESEMBARGADOR WESTPHALEN - 1669",
                phone:"41 3045-6787",
                status:"ativo"
@@ -217,7 +217,7 @@ class OficinaController {
                state:"PR",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV. BRASILIA - 2267",
                phone:"43 3357-2747",
                status:"ativo"
@@ -228,7 +228,7 @@ class OficinaController {
                state:"PR",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA DAS CARMELITAS - 1504",
                phone:"41 3016-1101",
                status:"ativo"
@@ -239,7 +239,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"R. Francisco Eugenio Compleme 398 - São Cristovão - RJ",
                phone:"(21) 2569-3046",
                status:"ativo"
@@ -250,7 +250,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA PAULO FERNANDES 08 - PRAÇA DA BANDEIRA - RJ",
                phone:"(21) 2213-4056",
                status:"ativo"
@@ -261,7 +261,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV BRASIL 6040 - MANGUINHOS RJ",
                phone:"21 3104-5155",
                status:"ativo"
@@ -272,7 +272,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"EST DO TINDIBA 1772 - TAQUARA RJ",
                phone:"(21) 3327-1575",
                status:"ativo"
@@ -283,7 +283,7 @@ class OficinaController {
                state:"RN",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Avenida Interventor M Camara 1792 - NATAL",
                phone:"084 3213 1748",
                status:"ativo"
@@ -294,7 +294,7 @@ class OficinaController {
                state:"RN",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA LUIZ CÚRCIO CABRAL 02 - NATAL",
                phone:"084 3205-8035",
                status:"ativo"
@@ -305,7 +305,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV SATURNINO DE BRITO 1112 PORTO ALEGRE",
                phone:"(51) 3381-3787 (51) 3381-9558",
                status:"ativo"
@@ -316,7 +316,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV. ASSIS BRASIL - 1329",
                phone:"51 3024-8498",
                status:"ativo"
@@ -327,7 +327,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV BENJAMIN CONSTANT - 3033",
                phone:"51 3709-1885",
                status:"ativo"
@@ -338,7 +338,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"OURO PRETO - 993",
                phone:"51 3361-2520",
                status:"ativo"
@@ -349,7 +349,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA TUPI - 35",
                phone:"51 3556-4455",
                status:"ativo"
@@ -360,7 +360,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV PEDRO ADAMS FILHO - 3505",
                phone:"51 3581-5854",
                status:"ativo"
@@ -371,7 +371,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ALVARES CABRAL - 176",
                phone:"54 3622-5644",
                status:"ativo"
@@ -382,7 +382,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV LUPICINIO RODRIGUES - 1195",
                phone:"51 3055-1448",
                status:"ativo"
@@ -393,7 +393,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"CONSELHEIRO DANTAS - 306",
                phone:"54 3222-3552",
                status:"ativo"
@@ -404,7 +404,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ALTAMIRO PHILIPI - 242",
                phone:"48 3241-1727",
                status:"ativo"
@@ -415,7 +415,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"SAO LUDGERO - 1640",
                phone:"48 3257-6105",
                status:"ativo"
@@ -426,7 +426,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"TRAVESSA LUIZ RAMIRES - 15",
                phone:"48 3437-5103",
                status:"ativo"
@@ -437,7 +437,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV. OSCAR BARCELOS - 1451",
                phone:"47 3522-7757",
                status:"ativo"
@@ -448,7 +448,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"DR. JOÃO COLIN - 2037",
                phone:"47 3435-3705",
                status:"ativo"
@@ -459,7 +459,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"MAXIMILIANO FURBRINGER - 295",
                phone:"47 3351-3258",
                status:"ativo"
@@ -470,7 +470,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RODOVIA BR 470  KM 69 - 487 ",
                phone:"47 3394-8753",
                status:"ativo"
@@ -481,7 +481,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RODOVIA BR 101 KM 164 RUA GREGÓRIO V. - 87",
                phone:"48 3263-5193",
                status:"ativo"
@@ -492,7 +492,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"CAROLINA BATALHA RIBEIRO - 33",
                phone:"49 3222-4809",
                status:"ativo"
@@ -503,7 +503,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RODOVIA SC 108 - 240",
                phone:"48 9637-9676",
                status:"ativo"
@@ -514,7 +514,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:" RUA BAHIA - 374",
                phone:"47 3382-1373",
                status:"ativo"
@@ -525,7 +525,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"MASSARANDUBA - 100",
                phone:"47 3371-1866",
                status:"ativo"
@@ -536,7 +536,7 @@ class OficinaController {
                state:"SE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Rua Mariano Salmeron 745 - natal",
                phone:"(79)3241-7719",
                status:"ativo"
@@ -547,7 +547,7 @@ class OficinaController {
                state:"SE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"rua siriri -06 - aracaju",
                phone:"(79) 3211-4007",
                status:"ativo"
@@ -558,7 +558,7 @@ class OficinaController {
                state:"SE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Av: Engenheiro Gentil Tav. da Mota  185 - aracaju",
                phone:"(79) 3214-0717",
                status:"ativo"
@@ -569,7 +569,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV PREF HIRANT SANAZAR 530 - osasco - sp",
                phone:"11 36820050",
                status:"ativo"
@@ -580,7 +580,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV MARECHAL TITO 3340 - SÃO MIGUEL PAULISTA",
                phone:"(11) 2562-3256",
                status:"ativo"
@@ -591,7 +591,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RODOVIA ANCHIETA 1103 - SACOMA",
                phone:"(11) 2014-2157",
                status:"ativo"
@@ -602,7 +602,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV MIRANDOPÓLIS 482 - CAMPINAS",
                phone:"(19) 3267-7662",
                status:"ativo"
@@ -613,7 +613,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV GUARULHOS 2033 - GUARULHOS",
                phone:"(11) 2086-8816",
                status:"ativo"
@@ -624,7 +624,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA JOAQUIM NABUCO 719 - SÃO BERNARDO DO CAMPO",
                phone:"(11) 4335-0078",
                status:"ativo"
@@ -635,7 +635,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV JUSCELINO KUBITSCHEK - 8208 - MONTE CASTELO - SÃO JOSE DOS CAMPOS",
                phone:"(12) 3929-9900",
                status:"ativo"
@@ -646,7 +646,7 @@ class OficinaController {
                state:"ES",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Rodovia Br 262, n.2140, Jardim America - Cariacica",
                phone:" (27) 3200 2060 ",
                status:"ativo"
@@ -657,7 +657,7 @@ class OficinaController {
                state:"ES",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV DESEMBARGADOR MARIO NUNES - SN LJ 01 - JARDIM LIMOEIRO - SERRA",
                phone:" (27) 3066-6214 ",
                status:"ativo"
@@ -668,7 +668,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV. DOS ESTADOS, 1584 - SÃO CAETANO DO SUL",
                phone:"(11) 4227-3242",
                status:"ativo"
@@ -679,7 +679,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV. IMIRIM, 1936 - São Paulo",
                phone:"(11) 3969-0595",
                status:"ativo"
@@ -690,7 +690,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV. PATRICIO LIMA 1135A - HUMAITA TUBARAO",
                phone:"(48) 3632-3682/(48) 9841-0201",
                status:"ativo"
@@ -701,7 +701,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV.OSMUNDO DOS SANTOS PELEGRINE 268 - JUNDIAI",
                phone:"(11) 4582-7309",
                status:"ativo"
@@ -712,7 +712,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Av.Polônia, 859 - Porto Alegre",
                phone:"(51) 3337-0742",
                status:"ativo"
@@ -723,7 +723,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"R. Narciso Sturlini, 617 - Centro, Osasco - SP, 06018-100",
                phone:"(11) 3681-7625",
                status:"ativo"
@@ -734,7 +734,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Av. dos Autonomistas, 5741 - Km 18, Osasco - SP, 06194-050",
                phone:" (11) 3695-3090",
                status:"ativo"
@@ -745,7 +745,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"R. Juvenal Wey, 306 - Vila Guimaraes, Sorocaba - SP, 18075-220",
                phone:" (15) 3231-3958",
                status:"ativo"
@@ -756,7 +756,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Av. Ver. João de Luca, 1315 - Jardim Prudencia, São Paulo - SP, 04381-000",
                phone:"(11) 5562-2250",
                status:"ativo"
@@ -767,7 +767,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA JANUARIO ALVES GARCIA N° 560 BAIRRO: CENTRO CEP: 88704-311 TUBARÃO ",
                phone:"",
                status:"ativo"
@@ -778,7 +778,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV. PRESIDENTE TANCREDO NEVES N° 3747  BAIRRO: REVOREDO  CEP: 88704-700 TUBARÃO",
                phone:"",
                status:"ativo"
@@ -789,7 +789,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA EDGAR VON BUETNER N° 230  BAIRRO: BATEIAS  CEP: 88350-000  BRUSQUE",
                phone:"",
                status:"ativo"
@@ -800,7 +800,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA FORTALEZA N° 56  BAIRRO: AMERICA  CEP: 89221-650  JOINVILLE",
                phone:"",
                status:"ativo"
@@ -811,7 +811,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA OTTO PFUETZENTEUTER N° 806   BAIRRO: COSTA SILVA  CEP: 89219-200 JOINVILLE",
                phone:"",
                status:"ativo"
@@ -822,7 +822,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA 25 DE JULHO N° 521   BAIRRO: PIO DÉCIMO CEP: 95180-000 FARROUPILHA ",
                phone:"",
                status:"ativo"
@@ -833,7 +833,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV. INDEPENDENCIA N° 1312  BAIRRO: CAIRU CEP: 95720-000 GARIBALDI ",
                phone:"",
                status:"ativo"
@@ -844,7 +844,7 @@ class OficinaController {
                state:"RS",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA DONA ALZIRA N° 185   BAIRRO: SARANDI CEP: 91110-010 PORTO ALEGRE",
                phone:"",
                status:"ativo"
@@ -855,7 +855,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA GOIAS, 76  BAIRRO: GARCIA, CEP: 89021-300  BLUMENAU",
                phone:"",
                status:"ativo"
@@ -866,7 +866,7 @@ class OficinaController {
                state:"SC",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA DOIS DE SETEMBRO N, 4462  BAIRRO: ITOUPAVA NORTE  CEP: 89053-200 BLUMENAU",
                phone:"",
                status:"ativo"
@@ -877,7 +877,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:"Sulfluminense",
+               num:"Sulfluminense",
                address:"Rezende",
                phone:"(24) 3381-4742",
                status:"ativo"
@@ -888,7 +888,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:"Sulfluminense",
+               num:"Sulfluminense",
                address:"Rezende",
                phone:"(24) 3355-0570",
                status:"ativo"
@@ -899,7 +899,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:"Sulfluminense",
+               num:"Sulfluminense",
                address:"Porto Real",
                phone:"(24) 3353-4333",
                status:"ativo"
@@ -910,7 +910,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:"Sulfluminense",
+               num:"Sulfluminense",
                address:"Barra Mansa",
                phone:"(24) 3324-5843",
                status:"ativo"
@@ -921,7 +921,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:"Sulfluminense",
+               num:"Sulfluminense",
                address:"Volta Redonda",
                phone:"(24) 3339-8440",
                status:"ativo"
@@ -932,7 +932,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:"Sulfluminense",
+               num:"Sulfluminense",
                address:"Av. Nossa Senhora do Amapro,1120, Voldac, Volta redonda",
                phone:"(24) 3349-2944",
                status:"ativo"
@@ -943,7 +943,7 @@ class OficinaController {
                state:"BA",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ESTRADA CAMPINAS DE PIRAJA, 4677, CAMPINAS, SALVADOR",
                phone:"(71) 3215-4971",
                status:"ativo"
@@ -954,7 +954,7 @@ class OficinaController {
                state:"CE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Avenida João Pessoa, 3486 - Fortaleza",
                phone:"(85)3077-1717",
                status:"ativo"
@@ -965,7 +965,7 @@ class OficinaController {
                state:"PB",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Rua  ANÁSIO DE AZEVEDO LIMA, 292 - JOÃO PESSOA",
                phone:"(83)3239-9472",
                status:"ativo"
@@ -976,7 +976,7 @@ class OficinaController {
                state:"PB",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA ENGENHEIRO LOURIVAL ANDRADE, 1779 B - CAMPINA GRANDE",
                phone:"(83)3077-6031",
                status:"ativo"
@@ -987,7 +987,7 @@ class OficinaController {
                state:"PE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ESTRADA DA BATALHA, 1221 - JABOATÃO DOS GUARARAPES-PE",
                phone:"(81) 3267-8198",
                status:"ativo"
@@ -998,7 +998,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Rua Carolina Florence, n.889, Vila Nova - Campinas",
                phone:"(19) 3242-0542 | (19) 3242-9802",
                status:"ativo"
@@ -1009,7 +1009,7 @@ class OficinaController {
                state:"MG",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Rua Padre Leopoldo Mértens, 195 - Bairro São Francisco - Belo Horizonte (BH)",
                phone:"(31) 3492-2944 | (31) 3011-7333",
                status:"ativo"
@@ -1020,7 +1020,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Av. Celso Garcia, 5000, Tatuape, São Paulo",
                phone:"(11) 2090-9086",
                status:"ativo"
@@ -1031,7 +1031,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Rua Barão do Amazonas, n. 304 - Centro, Niteroi",
                phone:"(21) 2704-4897 / 9899-5247",
                status:"ativo"
@@ -1042,7 +1042,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Rua Maria Lopes, N.466 - Madureira, Rio de Janeiro",
                phone:"(21) 3217-9661 | (21) 3217-9664",
                status:"ativo"
@@ -1053,7 +1053,7 @@ class OficinaController {
                state:"ES",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV MARUIPE, 1039 - CEP: 29043213 - Vitoria (ES)",
                phone:"(27) 2142-2453 | (27) 9988-61200",
                status:"ativo"
@@ -1064,7 +1064,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"Av. Airton Pretini, 511 – Penha/SP",
                phone:"(11) 2092-3743 ",
                status:"ativo"
@@ -1075,7 +1075,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"R. Maria Edna Vilagelin Zakia, 793 – Pq. Via Norte - Campinas (SP)",
                phone:"(19) 3282-1378 ",
                status:"ativo"
@@ -1086,7 +1086,7 @@ class OficinaController {
                state:"SP",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"R Visconde de Parnaíba, 589 – Brás – São Paulo/SP",
                phone:"(11) 3399-5151 ",
                status:"ativo"
@@ -1097,7 +1097,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA BARCELOS DOMINGOS , 200 - CEP 23080020 - Campo Grande (RJ)",
                phone:"(21) 2415-2000",
                status:"ativo"
@@ -1108,7 +1108,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ESTRADA DO MENDANHA, 1069 - CEP 23087286 - Campo Grande (RJ)",
                phone:"(21) 3314-0522/ 3314-0522",
                status:"ativo"
@@ -1119,7 +1119,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA FRANCISCO REAL, 104 - CEP 21715422 - Padre Miguel (RJ)",
                phone:"(21)3283- 6028",
                status:"ativo"
@@ -1130,7 +1130,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ESTRADA CAROBA 360 L 45 LOT 42358 - CAMPO GRANDE (RJ)",
                phone:"(21) 3435-8282",
                status:"ativo"
@@ -1141,7 +1141,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ESTRADA DO MENDANHA, 978 - CEP 23087285 - CAMPO GRANDE (RJ)",
                phone:"(21) 2412-1517",
                status:"ativo"
@@ -1152,7 +1152,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV SANTA CRUZ, 9467 - SANTÍSSIMO (RJ)",
                phone:"(21) 3469-7712",
                status:"ativo"
@@ -1163,7 +1163,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV NILO PEÇANHA, 920 - CEP 26210012 - Nova Iguaçu (RJ)",
                phone:"(21) 2796-9582",
                status:"ativo"
@@ -1174,7 +1174,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"EST. ANTONIO BITTENCOURT,1599, NOVA CIDADE - NILÓPOLIS (RJ)",
                phone:"(21) 2691-1306/ 97006-5925",
                status:"ativo"
@@ -1185,7 +1185,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV NILO PEÇANHA , 867  - NOVA IGUAÇU (RJ)",
                phone:"(21) 2667-7024",
                status:"ativo"
@@ -1196,7 +1196,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ESTRADA MARECHAL ALENCASTRO 2371 OUTROS - RICARDO DE ALBUQUERQUE (RJ)",
                phone:"(21) 97036-2357",
                status:"ativo"
@@ -1207,7 +1207,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"EST. DR. PLINIO CASADO, s/n - CEP 26220099 - Nova Iguaçu (RJ)",
                phone:"(21) 97813-5370",
                status:"ativo"
@@ -1218,7 +1218,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA VINTE E QUATRO DE MAIO 1301 LETRA A - MEIER (RJ)",
                phone:"(21) 2581-0854",
                status:"ativo"
@@ -1229,7 +1229,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV DOM HELDER CAMARA 9797 - CASCADURA (RJ)",
                phone:"(21)2597-1532",
                status:"ativo"
@@ -1240,7 +1240,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"EST. ESTRADA DOS BANDEIRANTES , 5078 - CEP 22775114 - CURICICA (RJ)",
                phone:"(21) 2441-8800",
                status:"ativo"
@@ -1251,7 +1251,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV MERITI, 3652 - CEP 21250005 - CORDOVIL (RJ)",
                phone:"(21) 3458-9123",
                status:"ativo"
@@ -1262,7 +1262,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV DOS ITALIANOS, 734 - CEP 20950090 - ROCHA MIRANDA (RJ)",
                phone:"(21)2471-6237/ 2471-4105",
                status:"ativo"
@@ -1273,7 +1273,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ESTRADA ADHEMAR BEBIANO 336 - DEL CASTILHO (RJ)",
                phone:"(21) 2252-4129",
                status:"ativo"
@@ -1284,7 +1284,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV DOM HELDER CÂMARA , 7950 - PIEDADE (RJ)",
                phone:"(21) 3274-9797/ (21) 96428-4839",
                status:"ativo"
@@ -1295,7 +1295,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV DAS AMÉRICAS , 15530 - CEP 22790702 - RECREIO (RJ)",
                phone:"(21) 3283-0905 3283-0643",
                status:"ativo"
@@ -1306,7 +1306,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV PAULO DE FRONTIN , 465 - CEP 20261240 - PRAÇA DA BANDEIRA (RJ)",
                phone:"(21)3594-9009 3594-7007",
                status:"ativo"
@@ -1317,7 +1317,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV TENENTE CORONEL MUNIZ DE ARAGÃO, 2100 - CEP 2276008 - Anil (RJ)",
                phone:"(21)3563-3810 3563-3819",
                status:"ativo"
@@ -1328,7 +1328,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ESTRADA DO TINDIBA 1772 PARTE - TAQUARA (RJ)",
                phone:"(21) 3327-1575",
                status:"ativo"
@@ -1339,7 +1339,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA OPALA , 40- CEP 27940230 - Macaé - RIVIERA FLUMINENSE (RJ)",
                phone:"(22)27704421",
                status:"ativo"
@@ -1350,7 +1350,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV SENADOR TARCISIOMIRANDA, 695 - CEP 28020801 - PARQUE TURF CLUB / Campo Goyatases (RJ)",
                phone:"(22) 2731-0736",
                status:"ativo"
@@ -1361,7 +1361,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV DOS BANDEIRANTES, 126 - CEP 28890000 - OURO VERDE / RIO DAS OSTRAS (RJ)",
                phone:"(22) 2760-7419",
                status:"ativo"
@@ -1372,7 +1372,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ROD. MARIO COVAS BR 101 Q 0 L 9, S/Nº - CEP 24855140 - Centro/ Itaborai (RJ)",
                phone:"(21) 3638-2863 97024-2271",
                status:"ativo"
@@ -1383,7 +1383,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV JORNALISTA ROBERTO MARINHO,238 - JARDIM ALCANTARA/ SÃO GONÇALO (RJ)",
                phone:"(21) 2603-7935",
                status:"ativo"
@@ -1394,7 +1394,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"RUA BARÃO DO AMAZONAS , 313 - CEP 24030111 - Centro/ Niteroi (RJ)",
                phone:"(21) 3619-4240",
                status:"ativo"
@@ -1405,7 +1405,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ROD AMARAL PEIXOTO S/Nº KM 28 - ITABEPA/ MARICA (RJ)",
                phone:"(21) 2637-5128",
                status:"ativo"
@@ -1416,7 +1416,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"ESTRADA FRANCISCO DA CRUZ NUNES 35 LJ B - LARGO DA BATALHA/ NITEROI (RJ)",
                phone:"(21) 2707-4260",
                status:"ativo"
@@ -1427,7 +1427,7 @@ class OficinaController {
                state:"GO",
                email:"",
                city:"",
-               number:"Goiania",
+               num:"Goiania",
                address:"AV 24 DE OUTUBRO 2930 - QD5 LT0 - AEROVIARIOS -74425-090 - GOIANIA (GO)",
                phone:"(62) 4141-8092 | (62) 99827-9263",
                status:"ativo"
@@ -1438,7 +1438,7 @@ class OficinaController {
                state:"DF",
                email:"",
                city:"",
-               number:"Brasilia",
+               num:"Brasilia",
                address:"ADE CONJUNTO 19, LOTE 27 LOJA 1 - SN - AGUAS CLARAS - BRASILIA (DF)",
                phone:"(61) 3399-1456 | (61) 99132 9942",
                status:"ativo"
@@ -1449,7 +1449,7 @@ class OficinaController {
                state:"PE",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"AV ANTONIO VICENTE NOVELINO – 910 SANTO ANTONIO – IGARASSU – PE CEP 53630-437",
                phone:"(81) 8891-2226",
                status:"ativo"
@@ -1460,7 +1460,7 @@ class OficinaController {
                state:"RJ",
                email:"",
                city:"",
-               number:0,
+               num:0,
                address:"R. Ernesto Cardoso, 85 - Centro, Nilópolis",
                phone:"(21) 3039-2712 | (21) 964194603",
                status:"ativo"
